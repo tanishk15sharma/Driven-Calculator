@@ -1,0 +1,8 @@
+#redbtn {
+    padding: 1rem;
+    background-color: lightsteelblue;
+    font-size: large;
+    font-weight: bold;
+    border-radius: 1rem;
+    cursor: pointer;
+}
